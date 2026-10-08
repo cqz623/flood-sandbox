@@ -47,12 +47,12 @@
   "layers": {
     "elev": {
       "file": "elev.png",
-      "bytes": 4242737,
+      "bytes": 4229854,
       "description": "ground elevation, metres NAVD88"
     },
     "spill": {
       "file": "spill.png",
-      "bytes": 3953258,
+      "bytes": 3932231,
       "description": "lowest waterline at which the cell connects to open water"
     }
   },
